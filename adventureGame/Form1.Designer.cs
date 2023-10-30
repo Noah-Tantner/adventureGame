@@ -136,6 +136,7 @@
             this.Controls.Add(this.option1Label);
             this.Controls.Add(this.imageBox);
             this.Controls.Add(this.outputLabel);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.Text = "German Festival Simulator";
             ((System.ComponentModel.ISupportInitialize)(this.imageBox)).EndInit();
